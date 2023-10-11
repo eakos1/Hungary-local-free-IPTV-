@@ -7,12 +7,59 @@ http://149.62.183.194:9293/play/a0by
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2_576p" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Közszolgálati",M2 (576p)
 http://146.59.85.40:89/m2/index.m3u8
 
+EXTINF:-1,(#1)  - M2
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=mtv2live&ext=.m3u8
+#EXTINF:-1,(#2)  - M2
+https://redirect.onlinestream.live/apredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&channel=m2&ext=.m3u8
+#EXTINF:-1,(#3) 
+http://146.59.85.40:89/m2/index.m3u8
+#EXTINF:-1,(#4) 
+https://nettv.flynet.hu:443/live/m2hd.m3u8
+#EXTINF:-1,(#5) m2 / Petofi
+http://149.62.183.194:9293/play/a0bz
+#EXTINF:-1,(#6) M2/Petőfi TV
+http://149.62.183.194:9293/play/a0cs
+#EXTINF:-1,(#7) m2 HD
+http://149.62.183.194:9293/play/a0eg
+
+#EXTINF:-1,(#1)  - M4 Sport élő adás
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=mtv4live&ext=.m3u8
+#EXTINF:-1,(#2)  - M4 Sport
+https://redirect.onlinestream.live/apredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&channel=m4&ext=.m3u8
+#EXTINF:-1,(#3)  - M4 Sport 2
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport2&ext=.m3u8
+#EXTINF:-1,(#4)  - M4 Sport 3
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport3&ext=.m3u8
+#EXTINF:-1,(#5)  - M4 Sport 4
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport4&ext=.m3u8
+#EXTINF:-1,(#6)  - M4 Sport 5
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport5&ext=.m3u8
+#EXTINF:-1,(#7) 
+https://nettv.flynet.hu:443/live/m4sporthd.m3u8
+#EXTINF:-1,(#8) M4 HD
+http://149.62.183.194:9293/play/a0d0
+#EXTINF:-1,(#9) M4 Sport HD
+http://94.53.216.16:9981/stream/channelid/110191723
+
 #EXTINF:-1,Duna TV (720p) 
 https://nettv.flynet.hu:443/live/dunahd.m3u8
 #EXTINF:-1,Duna TV (576P)
 http://149.62.183.194:9293/play/a0cu
 #EXTINF:-1,(#5) Duna HD
 http://149.62.183.194:9293/play/a0cx
+
+#EXTINF:-1,(#1)  - Duna World / M4 Sport+
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=dunaworldlive&ext=.m3u8
+#EXTINF:-1,(#2)  - Duna World / M4 Sport+
+https://redirect.onlinestream.live/apredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&channel=dunaworld&ext=.m3u8
+#EXTINF:-1,(#3)  - Duna World
+https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=mtv4plus&ext=.m3u8
+#EXTINF:-1,(#4) 
+https://nettv.flynet.hu:443/live/dunaworldhd.m3u8
+#EXTINF:-1,(#5) Duna World / M4 Sport+
+http://149.62.183.194:9293/play/a06f
+
+
 
 #EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-name="AlföldTV_720p" tvg-logo="https://i.imgur.com/71hz9K2.png" group-title="Hungarian",Alföld TV (1080p)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
