@@ -22,24 +22,12 @@ http://149.62.183.194:9293/play/a0cs
 #EXTINF:-1,(#7) m2 HD
 http://149.62.183.194:9293/play/a0eg
 
-#EXTINF:-1,(#1)  - M4 Sport élő adás
-https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=mtv4live&ext=.m3u8
 #EXTINF:-1,(#2)  - M4 Sport
 https://redirect.onlinestream.live/apredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&channel=m4&ext=.m3u8
-#EXTINF:-1,(#3)  - M4 Sport 2
-https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport2&ext=.m3u8
-#EXTINF:-1,(#4)  - M4 Sport 3
-https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport3&ext=.m3u8
-#EXTINF:-1,(#5)  - M4 Sport 4
-https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport4&ext=.m3u8
-#EXTINF:-1,(#6)  - M4 Sport 5
-https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=m4sport5&ext=.m3u8
-#EXTINF:-1,(#7) 
+#EXTINF:-1,(#7) M4 Sport
 https://nettv.flynet.hu:443/live/m4sporthd.m3u8
 #EXTINF:-1,(#8) M4 HD
 http://149.62.183.194:9293/play/a0d0
-#EXTINF:-1,(#9) M4 Sport HD
-http://94.53.216.16:9981/stream/channelid/110191723
 
 #EXTINF:-1,Duna TV (720p) 
 https://nettv.flynet.hu:443/live/dunahd.m3u8
@@ -48,17 +36,32 @@ http://149.62.183.194:9293/play/a0cu
 #EXTINF:-1,(#5) Duna HD
 http://149.62.183.194:9293/play/a0cx
 
-#EXTINF:-1,(#1)  - Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=dunaworldlive&ext=.m3u8
-#EXTINF:-1,(#2)  - Duna World / M4 Sport+
-https://redirect.onlinestream.live/apredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&channel=dunaworld&ext=.m3u8
 #EXTINF:-1,(#3)  - Duna World
 https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=mtv4plus&ext=.m3u8
-#EXTINF:-1,(#4) 
+#EXTINF:-1,(#4) Duna World
 https://nettv.flynet.hu:443/live/dunaworldhd.m3u8
 #EXTINF:-1,(#5) Duna World / M4 Sport+
 http://149.62.183.194:9293/play/a06f
 
+#EXTINF:-1,(#1) 
+https://nettv.flynet.hu:443/live/tv2hd.m3u8
+#EXTINF:-1,(#2) TV2
+http://149.62.183.194:9293/play/a069
+#EXTINF:-1,(#3) TV2
+http://149.62.183.194:9293/play/a094
+#EXTINF:-1,(#4) TV2 HD
+http://149.62.183.194:9293/play/a0el
+
+#EXTINF:-1,(#1)  - RTL Híradó
+https://stream.y5.hu:443/stream/stream_rtl_hirado/hls_1080p/stream.m3u8
+#EXTINF:-1,(#2)  - RTL Híradó
+https://stream.y5.hu:443/stream/stream_rtl_hirado/hls_360p/stream.m3u8
+#EXTINF:-1,(#3) RTL
+http://149.62.183.194:9293/play/a068
+#EXTINF:-1,(#4) RTL
+http://149.62.183.194:9293/play/a095
+#EXTINF:-1,(#5) RTL HD
+http://149.62.183.194:9293/play/a0ei
 
 
 #EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-name="AlföldTV_720p" tvg-logo="https://i.imgur.com/71hz9K2.png" group-title="Hungarian",Alföld TV (1080p)
