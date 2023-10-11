@@ -7,7 +7,7 @@ http://149.62.183.194:9293/play/a0by
 #EXTINF:-1 tvg-id="M2.hu" tvg-name="M2_576p" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Közszolgálati",M2 (576p)
 http://146.59.85.40:89/m2/index.m3u8
 
-EXTINF:-1,(#1)  - M2
+#EXTINF:-1,(#1)  - M2
 https://redirect.onlinestream.live/mkredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&video=mtv2live&ext=.m3u8
 #EXTINF:-1,(#2)  - M2
 https://redirect.onlinestream.live/apredir.m3u8?s=45464c528ba00f6f36c65cca940c5933&channel=m2&ext=.m3u8
