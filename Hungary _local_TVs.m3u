@@ -18,7 +18,7 @@ http://149.62.183.194:9293/play/a0cx
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-logo="https://i.imgur.com/C43Cc9N.png" group-title="Hungarian",Apostol TV (576p)
 https://live.apostoltv.hu/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ATV.hu" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="Undefined",ATV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="Undefined",ATV (360p) [Not 24/7]
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="BTV.hu" tvg-logo="https://i.ibb.co/hsCPW6H/5258.png" group-title="Hungarian",BĂˇbolnai TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
