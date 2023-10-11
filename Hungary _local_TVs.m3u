@@ -4,7 +4,7 @@ https://nettv.flynet.hu:443/live/m1hd.m3u8
 #EXTINF:-1 group-title="Közszolgálati",M1 (576p)
 http://149.62.183.194:9293/play/a0by
 
-#EXTINF:-1 tvg-id="M2.hu" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Közszolgálati",M2 (576p)
+#EXTINF:-1 tvg-id="M2.hu" tvg-name="M2_576p" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Közszolgálati",M2 (576p)
 http://146.59.85.40:89/m2/index.m3u8
 
 #EXTINF:-1,Duna TV (720p) 
@@ -14,7 +14,7 @@ http://149.62.183.194:9293/play/a0cu
 #EXTINF:-1,(#5) Duna HD
 http://149.62.183.194:9293/play/a0cx
 
-#EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-logo="https://i.imgur.com/71hz9K2.png" group-title="Hungarian",Alföld TV (1080p)
+#EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-name="AlföldTV_720p" tvg-logo="https://i.imgur.com/71hz9K2.png" group-title="Hungarian",Alföld TV (1080p)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ApostolTV.hu" tvg-logo="https://i.imgur.com/C43Cc9N.png" group-title="Hungarian",Apostol TV (576p)
 https://live.apostoltv.hu/live/playlist.m3u8
