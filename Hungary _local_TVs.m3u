@@ -1,33 +1,18 @@
 #EXTM3U
-#EXTINF:-1,(#1)  - M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=94e5cf9293c4065a4fbcbc359a77a5d6&video=mtv1live&ext=.m3u8
-#EXTINF:-1,(#2)  - M1
-https://redirect.onlinestream.live/apredir.m3u8?s=94e5cf9293c4065a4fbcbc359a77a5d6&channel=m1&ext=.m3u8
-#EXTINF:-1,(#3) 
+#EXTINF:-1,M1 (720p) 
 https://nettv.flynet.hu:443/live/m1hd.m3u8
-#EXTINF:-1,(#4) M1 HD
-http://149.62.183.194:9293/play/a0bm
-#EXTINF:-1,(#5) m1
+#EXTINF:-1,M1 (576p)
 http://149.62.183.194:9293/play/a0by
-#EXTINF:-1,(#6) M1
-http://149.62.183.194:9293/play/a0cj
-#EXTINF:-1,(#7) M1 - Híradó élő közvetítése
-https://www.youtube.com/watch?v=7AKN-G88LvA
 
 #EXTINF:-1 tvg-id="M2.hu" tvg-logo="https://i.imgur.com/B0nYT0l.png" group-title="Közszolgálati",M2 (576p)
 http://146.59.85.40:89/m2/index.m3u8
 
-#EXTINF:-1,(#1)  - Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=434a13786790d7193f029f58b8c299f2&video=dunalive&ext=.m3u8
-#EXTINF:-1,(#2)  - Duna
-https://redirect.onlinestream.live/apredir.m3u8?s=434a13786790d7193f029f58b8c299f2&channel=duna&ext=.m3u8
-#EXTINF:-1,(#3) 
+#EXTINF:-1,Duna TV (720p) 
 https://nettv.flynet.hu:443/live/dunahd.m3u8
-#EXTINF:-1,(#4) Duna
+#EXTINF:-1,Duna TV (576P)
 http://149.62.183.194:9293/play/a0cu
 #EXTINF:-1,(#5) Duna HD
 http://149.62.183.194:9293/play/a0cx
-
 
 #EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-logo="https://i.imgur.com/71hz9K2.png" group-title="Hungarian",AlfĂ¶ld TV (1080p)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
