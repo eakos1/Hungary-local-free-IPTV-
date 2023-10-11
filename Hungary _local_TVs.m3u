@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="M1 720p" tvg-name="M1 720p" group-title="Közszolgálati",M1 (720p) 
+#EXTINF:-1 tvg-id="M1_720p" tvg-name="M1_720p" group-title="Közszolgálati",M1 (720p) 
 https://nettv.flynet.hu:443/live/m1hd.m3u8
 #EXTINF:-1 group-title="Közszolgálati",M1 (576p)
 http://149.62.183.194:9293/play/a0by
