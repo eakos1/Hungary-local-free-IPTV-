@@ -77,6 +77,20 @@ http://149.62.183.194:9293/play/a09d
 #EXTINF:-1,(#3) Nat Geo Wild
 http://149.62.183.194:9293/play/a0e0
 
+#EXTINF:-1,(#1) Viasat Nature
+https://nettv.flynet.hu:443/live/viasatnature.m3u8
+#EXTINF:-1,(#2) Viasat Nature
+http://149.62.183.194:9293/play/a064
+#EXTINF:-1,(#3) Viasat Nature
+http://149.62.183.194:9293/play/a098
+#EXTINF:-1,(#4) Viasat Nature
+http://94.53.216.16:9981/stream/channelid/589399597
+
+#EXTINF:-1,Animal Planet
+http://149.62.183.194:9293/play/a091
+
+#EXTINF:-1,Love Nature HD
+http://149.62.183.194:9293/play/a0d1
 
 #EXTINF:-1 tvg-id="AlfoldTV.hu" tvg-name="AlföldTV_720p" tvg-logo="https://i.imgur.com/71hz9K2.png" group-title="Hungarian",Alföld TV (1080p)
 https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
@@ -84,6 +98,11 @@ https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u
 https://live.apostoltv.hu/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.hu" tvg-name="ATV" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="Undefined",ATV (360p) [Not 24/7]
 https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1,(#1) 
+https://nettv.flynet.hu:443/live/atvspirithd.m3u8
+#EXTINF:-1,(#2) ATV Spirit
+http://149.62.183.194:9293/play/a067
+
 #EXTINF:-1 tvg-id="BTV.hu" tvg-logo="https://i.ibb.co/hsCPW6H/5258.png" group-title="Hungarian",BĂˇbolnai TV (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Hungarian",BabyFirst
