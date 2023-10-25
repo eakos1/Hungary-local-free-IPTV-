@@ -8,10 +8,10 @@ https://online.digi.hu/api/streams/playlist/288/672d5319064a202a4add28a526930981
 #EXTINF:-1 group-title="DIGI",TLC (720p)
 https://online.digi.hu/api/streams/playlist/295/672d5319064a202a4add28a526930981.m3u8
 
-#EXTINF:-1 group-title="DIGI",Discovery Chanel (720p)
+#EXTINF:-1 tvg-logo="https://online.digi.hu/cache/api/programs/discovery-channel.png" group-title="DIGI",Discovery Chanel (720p)
 https://online.digi.hu/api/streams/playlist/252/672d5319064a202a4add28a526930981.m3u8
 
-#EXTINF:-1 group-title="DIGI",Nat Geo Wilde HD (720p)
+#EXTINF:-1 tvg-logo="https://online.digi.hu/cache/api/programs/nat-geo-wild-hd.png" group-title="DIGI",Nat Geo Wilde HD (720p)
 https://online.digi.hu/api/streams/playlist/278/672d5319064a202a4add28a526930981.m3u8
 
 
