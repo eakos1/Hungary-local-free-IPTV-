@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="DIGI",Animal Planet (720p)
 https://online.digi.hu/api/streams/playlist/328/672d5319064a202a4add28a526930981.m3u8
 
-#EXTINF:-1 group-title="DIGI",Spectrum (720p)
+#EXTINF:-1 tvg-logo="https://online.digi.hu/cache/api/programs/spektrum.png" group-title="DIGI",Spectrum (720p)
 https://online.digi.hu/api/streams/playlist/288/672d5319064a202a4add28a526930981.m3u8
 
 #EXTINF:-1 group-title="DIGI",TLC (720p)
