@@ -14,6 +14,14 @@ https://online.digi.hu/api/streams/playlist/252/672d5319064a202a4add28a526930981
 #EXTINF:-1 group-title="DIGI",Nat Geo Wilde HD (720p)
 https://online.digi.hu/api/streams/playlist/278/672d5319064a202a4add28a526930981.m3u8
 
+#EXT-X-STREAM-INF:PROGRAM-ID=278,BANDWIDTH=300056,AVERAGE-BANDWIDTH=300056,RESOLUTION=320x180,NAME="lq"
+https://dostr.digi.hu/stream.m3u8?c=368&q=lq&id=b1a1ce654aa3c047f2eb874795ea1f210bb7acb6675ef01895c82c56b8468a16&_t=1698263148
+#EXT-X-STREAM-INF:PROGRAM-ID=278,BANDWIDTH=800056,AVERAGE-BANDWIDTH=800056,RESOLUTION=640x480,NAME="mq"
+https://dostr.digi.hu/stream.m3u8?c=368&q=mq&id=b1a1ce654aa3c047f2eb874795ea1f210bb7acb6675ef01895c82c56b8468a16&_t=1698263148
+#EXT-X-STREAM-INF:PROGRAM-ID=278,BANDWIDTH=2500128,AVERAGE-BANDWIDTH=2500128,RESOLUTION=1280x768,NAME="hd"
+https://dostr.digi.hu/stream.m3u8?c=368&q=hq&id=b1a1ce654aa3c047f2eb874795ea1f210bb7acb6675ef01895c82c56b8468a16&_t=1698263148
+
+
 
 #EXTINF:-1 group-title="Közszolgálati",M1 (720p) 
 https://nettv.flynet.hu:443/live/m1hd.m3u8
