@@ -55,13 +55,13 @@ https://online.digi.hu/api/streams/playlist/256/95b50118ae47ff6228d17fafa5ad834e
 https://online.digi.hu/api/streams/playlist/289/95b50118ae47ff6228d17fafa5ad834e.m3u8
 #EXTINF:-1 group-title="DIGI Sport",Sport 2 (720p)
 https://online.digi.hu/api/streams/playlist/290/95b50118ae47ff6228d17fafa5ad834e.m3u8
-#EXTINF:-1 group-title="DIGI Közszolgálati",M4 Sport  (720p)
+#EXTINF:-1 group-title="DIGI Sport",M4 Sport  (720p)
 https://online.digi.hu/api/streams/playlist/268/95b50118ae47ff6228d17fafa5ad834e.m3u8
-#EXTINF:-1 group-title="DIGI Közszolgálati",Arena 4  (720p)
+#EXTINF:-1 group-title="DIGI Sport",Arena 4  (720p)
 https://online.digi.hu/api/streams/playlist/249/95b50118ae47ff6228d17fafa5ad834e.m3u8
-#EXTINF:-1 group-title="DIGI Közszolgálati",Match 4  (720p)
+#EXTINF:-1 group-title="DIGI Sport",Match 4  (720p)
 https://online.digi.hu/api/streams/playlist/248/95b50118ae47ff6228d17fafa5ad834e.m3u8
-#EXTINF:-1 group-title="DIGI Közszolgálati",The Fishing & Hunting (720p)
+#EXTINF:-1 group-title="DIGI Sport",The Fishing & Hunting (720p)
 https://online.digi.hu/api/streams/playlist/322/95b50118ae47ff6228d17fafa5ad834e.m3u8
 
 
