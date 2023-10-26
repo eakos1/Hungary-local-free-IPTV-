@@ -11,9 +11,17 @@ https://online.digi.hu/api/streams/playlist/295/672d5319064a202a4add28a526930981
 #EXTINF:-1 tvg-logo="https://online.digi.hu/cache/api/programs/discovery-channel.png" group-title="DIGI",Discovery Chanel (720p)
 https://online.digi.hu/api/streams/playlist/252/672d5319064a202a4add28a526930981.m3u8
 
+#EXTINF:-1 tvg-logo="https://online.digi.hu/cache/api/programs/nat-geo-hd.png" group-title="DIGI",Nat Geo (720p)
+https://dostr.digi.hu/stream.m3u8?c=96&q=hq&id=9b8735db65694ba1464237271481c9d55a4eee25e764997282a1e115fa95579e&_t=1698295016
+
 #EXTINF:-1 tvg-logo="https://online.digi.hu/cache/api/programs/nat-geo-wild-hd.png" group-title="DIGI",Nat Geo Wilde HD (720p)
 https://online.digi.hu/api/streams/playlist/278/672d5319064a202a4add28a526930981.m3u8
 
+#EXTINF:-1 group-title="DIGI",Viasat History (720p)
+https://dostr.digi.hu/stream.m3u8?c=34&q=hq&id=9b8735db65694ba1464237271481c9d55a4eee25e764997282a1e115fa95579e&_t=1698295326
+
+#EXTINF:-1 group-title="DIGI",Viasat Nature (720p)
+https://dostr.digi.hu/stream.m3u8?c=232&q=hq&id=9b8735db65694ba1464237271481c9d55a4eee25e764997282a1e115fa95579e&_t=1698295448
 
 #EXTINF:-1 group-title="Közszolgálati",M1 (720p) 
 https://nettv.flynet.hu:443/live/m1hd.m3u8
