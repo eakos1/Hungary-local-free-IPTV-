@@ -23,6 +23,17 @@ https://online.digi.hu/api/streams/playlist/298/95b50118ae47ff6228d17fafa5ad834e
 #EXTINF:-1 group-title="DIGI",Viasat Nature (720p)
 https://dostr.digi.hu/stream.m3u8?c=232&q=hq&id=9b8735db65694ba1464237271481c9d55a4eee25e764997282a1e115fa95579e&_t=1698295448
 
+#EXTINF:-1 group-title="DIGI",Investigation Discovery (720p)
+https://online.digi.hu/api/streams/playlist/330/95b50118ae47ff6228d17fafa5ad834e.m3u8
+
+#EXTINF:-1 group-title="DIGI",History (720p)
+https://online.digi.hu/api/streams/playlist/261/95b50118ae47ff6228d17fafa5ad834e.m3u8
+
+#EXTINF:-1 group-title="DIGI",CBS Reality (720p)
+https://online.digi.hu/api/streams/playlist/314/95b50118ae47ff6228d17fafa5ad834e.m3u8
+
+
+
 #EXTINF:-1 group-title="Közszolgálati",M1 (720p) 
 https://nettv.flynet.hu:443/live/m1hd.m3u8
 #EXTINF:-1 group-title="Közszolgálati",M1 (576p)
