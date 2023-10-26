@@ -32,7 +32,7 @@ https://online.digi.hu/api/streams/playlist/261/95b50118ae47ff6228d17fafa5ad834e
 #EXTINF:-1 group-title="DIGI",CBS Reality (720p)
 https://online.digi.hu/api/streams/playlist/314/95b50118ae47ff6228d17fafa5ad834e.m3u8
 
-DIGI KÖZSZOLGÁLATI
+DIGI KÖZSZOLGÁLATI ----------------------------------------------------------------------------
 #EXTINF:-1 group-title="DIGI Közszolgálati",M1 (720p)
 https://online.digi.hu/api/streams/playlist/266/95b50118ae47ff6228d17fafa5ad834e.m3u8
 #EXTINF:-1 group-title="DIGI Közszolgálati",M2 (720p)
@@ -46,7 +46,7 @@ https://online.digi.hu/api/streams/playlist/268/95b50118ae47ff6228d17fafa5ad834e
 #EXTINF:-1 group-title="DIGI Közszolgálati",M5  (720p)
 https://online.digi.hu/api/streams/playlist/269/95b50118ae47ff6228d17fafa5ad834e.m3u8
 
-DIGI SPORT
+DIGI SPORT ------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="DIGI Sport",Eurosport (720p)
 https://online.digi.hu/api/streams/playlist/255/95b50118ae47ff6228d17fafa5ad834e.m3u8
 #EXTINF:-1 group-title="DIGI Sport",Eurosport 2 (720p)
