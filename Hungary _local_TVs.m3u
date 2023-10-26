@@ -89,6 +89,8 @@ https://online.digi.hu/api/streams/playlist/291/95b50118ae47ff6228d17fafa5ad834e
 https://online.digi.hu/api/streams/playlist/319/95b50118ae47ff6228d17fafa5ad834e.m3u8
 #EXTINF:-1 group-title="DIGI Film",TLC (720p)
 https://online.digi.hu/api/streams/playlist/295/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",TV2 (720p)
+https://online.digi.hu/api/streams/playlist/297/95b50118ae47ff6228d17fafa5ad834e.m3u8
 #EXTINF:-1 group-title="DIGI Film",TV2 Comedy (720p)
 https://online.digi.hu/api/streams/playlist/306/95b50118ae47ff6228d17fafa5ad834e.m3u8
 #EXTINF:-1 group-title="DIGI Film",Viasat 2 (720p)
