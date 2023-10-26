@@ -64,6 +64,39 @@ https://online.digi.hu/api/streams/playlist/248/95b50118ae47ff6228d17fafa5ad834e
 #EXTINF:-1 group-title="DIGI Sport" tvg-logo="https://online.digi.hu/cache/api/programs/the-fishing-amp-hunting-hd.png",The Fishing & Hunting (720p)
 https://online.digi.hu/api/streams/playlist/322/95b50118ae47ff6228d17fafa5ad834e.m3u8
 
+DIGI FILM ---------------------------------------------------------------------------------------
+#EXTINF:-1 group-title="DIGI Film",AMC (720p)
+https://online.digi.hu/api/streams/playlist/243/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",AXN (720p)
+https://online.digi.hu/api/streams/playlist/313/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Comedi Central (720p)
+https://online.digi.hu/api/streams/playlist/244/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Film Cafe (720p)
+https://online.digi.hu/api/streams/playlist/312/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Film 4 (720p)
+https://online.digi.hu/api/streams/playlist/315/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Izaura (720p)
+https://online.digi.hu/api/streams/playlist/263/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Mozi+ (720p)
+https://online.digi.hu/api/streams/playlist/271/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Paramount Network (720p)
+https://online.digi.hu/api/streams/playlist/310/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Prime (720p)
+https://online.digi.hu/api/streams/playlist/284/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Super TV2 (720p)
+https://online.digi.hu/api/streams/playlist/291/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Teen Nick (720p)
+https://online.digi.hu/api/streams/playlist/319/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",TLC (720p)
+https://online.digi.hu/api/streams/playlist/295/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",TV2 Comedy (720p)
+https://online.digi.hu/api/streams/playlist/306/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Viasat 2 (720p)
+https://online.digi.hu/api/streams/playlist/323/95b50118ae47ff6228d17fafa5ad834e.m3u8
+#EXTINF:-1 group-title="DIGI Film",Viasat 3 (720p)
+https://online.digi.hu/api/streams/playlist/318/95b50118ae47ff6228d17fafa5ad834e.m3u8
+
+
 
 #EXTINF:-1 group-title="Közszolgálati",M1 (720p) 
 https://nettv.flynet.hu:443/live/m1hd.m3u8
