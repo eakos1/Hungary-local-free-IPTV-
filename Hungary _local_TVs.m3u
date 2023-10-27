@@ -1,4 +1,21 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="Közszolgálati",M1 (1080p)
+https://c202-node61-cdn.connectmedia.hu/110101/0094a7946824d7add5cc271a8a66e292/653bd254/index.m3u8?v=5iip:84.3.181.144
+#EXTINF:-1 group-title="Közszolgálati",M2 (1080p)
+https://c202-node61-cdn.connectmedia.hu/110102/338e8070274e9eca12b917d386b4a49e/653bd392/index.m3u8?v=5iip:84.3.181.144
+#EXTINF:-1 group-title="Közszolgálati",M4 Sport (1080p)
+https://c402-node61-cdn.connectmedia.hu/110104/6210b46c61cf55f178bfd4cf1d4464c9/653bd3e0/index.m3u8?v=5iip:84.3.181.144
+#EXTINF:-1 group-title="Közszolgálati",M4 Sport+ (1080p)
+https://c201-node61-cdn.connectmedia.hu/110106/c163cac66c488cc0658976ceb7c20644/653bd4ae/index.m3u8?v=5iip:84.3.181.144
+#EXTINF:-1 group-title="Közszolgálati",M5 (1080p)
+https://c401-node62-cdn.connectmedia.hu/110105/dd18c7267867b445137a3c902d4e7298/653bd59d/index.m3u8?v=5iip:84.3.181.144
+#EXTINF:-1 group-title="Közszolgálati",Duna (1080p)
+https://c401-node62-cdn.connectmedia.hu/110103/4872a4669e4920eed5d6b82f5d2c03ff/653bd5cc/index.m3u8?v=5iip:84.3.181.144
+#EXTINF:-1 group-title="Közszolgálati",Duna (1080p)
+https://c402-node61-cdn.connectmedia.hu/110106/7d22ed6702095aba926129a2ccc48d4e/653bd608/index.m3u8?v=5iip:84.3.181.144
+
+
 #EXTINF:-1 group-title="DIGI",Animal Planet (720p)
 https://online.digi.hu/api/streams/playlist/328/672d5319064a202a4add28a526930981.m3u8
 
