@@ -2,10 +2,10 @@
 
 KÖZSZOLGÁLATI ----------------------------------------------------------------------------
 M4
-#EXTINF:-1 group-title="DIGI Közszolgálati",M4 Sport  (720p)
-https://c402-node61-cdn.connectmedia.hu/110104/81338838ae1f57810839981451639a6a/66747a97/index.m3u8?v=5iip:81.183.66.24
+#EXTINF:-1 group-title="DIGI Közszolgálati",M4 Sport  (1080p)
 https://c402-node61-cdn.connectmedia.hu/110104/81338838ae1f57810839981451639a6a/66747a97/index.m3u8
 
+#EXTINF:-1 group-title="DIGI Közszolgálati",M4 Sport  (720p)
 https://stream.streaming4u.hu:443/ObudaTV/index.m3u8
 
 
