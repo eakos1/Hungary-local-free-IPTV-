@@ -5,15 +5,15 @@ MTV KÖZSZOLGÁLATI ------------------------------------------------------------
 #EXTINF:-1 group-title="MTV Közszolgálati",M4 Sport (1080p)
 https://c402-node61-cdn.connectmedia.hu/110104/81338838ae1f57810839981451639a6a/66747a97/index.m3u8
 #EXTINF:-1 group-title="MTV Közszolgálati",M1 (1080p)
-https://c202-node62-cdn.connectmedia.hu/110101/e55a46da25a945ee57a943b7832f40e8/6675778e/index.m3u8
+https://c401-node61-cdn.connectmedia.hu/110101/b93ffe00a7c3fa1eb145f2bf4a65eaff/66757af8/index.m3u8?v=5iip:81.183.66.24
 #EXTINF:-1 group-title="MTV Közszolgálati",M2 Petőfi (1080p)
 https://c402-node62-cdn.connectmedia.hu/110102/070ec14ed99989be77a30dc167bd6679/667577d8/index.m3u8
 #EXTINF:-1 group-title="MTV Közszolgálati",Duna TV (1080p)
-https://c202-node61-cdn.connectmedia.hu/110103/848c561dffe9552bfd64dc2c28699f35/6675783a/index.m3u8
+https://c202-node61-cdn.connectmedia.hu/110103/7aad30d30b9b48c7494de432c833009e/6675795e/103-Duna_HUGEO_MAIN-avc1_1099968=10002.m3u8
 #EXTINF:-1 group-title="MTV Közszolgálati",Duna World (1080p)
 https://c402-node61-cdn.connectmedia.hu/110106/1a9651eb0de6a98605730b3e9fce2507/66757881/index.m3u8
 #EXTINF:-1 group-title="MTV Közszolgálati",M5 (1080p)
-https://c402-node61-cdn.connectmedia.hu/150105/90d0093db15d194d54193b5e3cfbf7e6/667578c1/index.m3u8
+https://c201-node61-cdn.connectmedia.hu/150105/22fb8e48bc81d9925b5f392c817ce965/66757abd/index.m3u8?v=5iip:81.183.66.24
 
 
 DIGI KÖZSZOLGÁLATI ----------------------------------------------------------------------------
